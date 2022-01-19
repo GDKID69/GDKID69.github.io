@@ -26,4 +26,4 @@ While in-game (which you choose wether to participate or not), your messages are
 While in-game (your decision to take part), your surface user info (name, discriminator, ID) are stored for our player tracking system. After the game ends, all member-related data is erased from our systems.
 
 ### Data Deletion
-No member-related data nor message content data is persistently stored. If you wish to remove your server's game configurations, you can invoke the `bansettings clear` command on the bot. Kicking the bot will remove any remaining data we have on you.
+No member-related data nor message content data is persistently stored. If you wish to remove your server's game configurations, you can invoke the `bansettings clear` command on the bot. Kicking the bot will remove any remaining data we have on your server.
