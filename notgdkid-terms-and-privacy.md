@@ -7,19 +7,3 @@ By inviting and using Not GDKID (*THE BOT*), you are subject to the following te
 
 ## Contact
 You can contact us by joining our [discord server](https://discord.gg/6jC54cRRrm)
-
-## Privacy Policy
-Below we have listed all forms of data that we collect from users:
-
-| Data Collected | Our Usage of this Data    |
-| -------------- | ---------- |
-| Server ID | Storing your server's game configurations |
-| Server name, Server member count | Internal logging |
-| Server roles | Game configurations |
-| Server members | In-game player tracking |
-
-### Server Members
-While in-game (your decision to take part), your surface user info (name, discriminator, ID) are stored for our player tracking system. After the game ends, all member-related data is erased from our systems.
-
-### Data Deletion
-No member-related data nor message content data is persistently stored. If you wish to remove your server's game configurations, you can invoke the `bansettings clear` command on the bot. Kicking the bot will remove any remaining data we have on your server.
