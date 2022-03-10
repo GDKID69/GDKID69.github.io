@@ -17,10 +17,6 @@ Below we have listed all forms of data that we collect from users:
 | Server name, Server member count | Internal logging |
 | Server roles | Game configurations |
 | Server members | In-game player tracking |
-| Message content | In-game elimination |
-
-### Message Content Storage
-While in-game (which you choose wether to participate or not), your messages are read by us once to determine your target, and is forgotten and deleted immediately afterwards.
 
 ### Server Members
 While in-game (your decision to take part), your surface user info (name, discriminator, ID) are stored for our player tracking system. After the game ends, all member-related data is erased from our systems.
